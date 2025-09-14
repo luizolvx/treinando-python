@@ -184,19 +184,19 @@ Aqui estão os códigos que você pode encontrar neste repositório, organizados
 - **Descrição:** Este programa simula um jogo de "Pedra, Papel e Tesoura" contra o computador.
 - **Conceitos:** Geração de números aleatórios e estruturas de controle de fluxo `if/elif/else` para a lógica de um jogo.
 
-### `caixa_eletronico.py`
+### [caixa_eletronico.py](caixa_eletronico.py)
 Simula o funcionamento de um caixa eletrônico. O usuário informa o valor desejado para saque, e o programa retorna a quantidade de cédulas de R$50, R$20, R$10 e R$1 necessárias para compor o valor.
 
-### `contagem_regressiva.py`
+### [contagem_regressiva.py](contagem_regressiva.py)
 Exibe uma contagem regressiva de 10 até 1, finalizando com uma mensagem animada de "Feliz Ano Novo!" acompanhada de fogos de artifício 🎆.
 
-### `fatorial.py`
+### [fatorial.py](fatorial.py)
 Calcula o **fatorial** de um número informado pelo usuário.  
 - Se o número for negativo, informa que o fatorial não é definido.  
 - Se for 0, retorna 1.  
 - Caso contrário, mostra o processo passo a passo da multiplicação até o resultado final.
 
-### `gerador_pa.py`
+### [gerador_pa.py](gerador_pa.py)
 Gera os **10 primeiros termos** de uma **Progressão Aritmética (PA)**.  
 - O usuário informa o primeiro termo e a razão.  
 - Os termos são exibidos em sequência no formato `a1 -> a2 -> a3 ... -> a10`.  
