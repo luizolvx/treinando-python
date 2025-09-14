@@ -188,7 +188,7 @@ Aqui estão os códigos que você pode encontrar neste repositório, organizados
 Simula o funcionamento de um caixa eletrônico. O usuário informa o valor desejado para saque, e o programa retorna a quantidade de cédulas de R$50, R$20, R$10 e R$1 necessárias para compor o valor.
 
 ### [contagem_regressiva.py](contagem_regressiva.py)
-Exibe uma contagem regressiva de 10 até 1, finalizando com uma mensagem animada de "Feliz Ano Novo!" acompanhada de fogos de artifício 🎆.
+Exibe uma contagem regressiva de 10 até 1, finalizando com uma mensagem animada de "Feliz Ano Novo!" acompanhada de fogos de artifício.
 
 ### [fatorial.py](fatorial.py)
 Calcula o **fatorial** de um número informado pelo usuário.  
