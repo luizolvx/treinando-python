@@ -347,3 +347,7 @@ Aqui estão os códigos que você pode encontrar neste repositório, organizados
 
   - **Descrição:** Um jogo de "par ou ímpar" contra o computador, onde o programa verifica o resultado e informa se o usuário venceu ou perdeu.
   - **Conceitos:** Geração de números aleatórios (`random.randint()`), laços de repetição (`while`) e operadores de módulo (`%`).
+
+### [numeros_por_extenso.py](numeros_por_extenso.py)
+  - Descrição: Um programa que recebe um número de 0 a 20 e o exibe por extenso.
+  - Conceitos: Laço de repetição (while), entrada de dados (input()), estrutura de dados tupla (tupla) e tratamento de erros.
