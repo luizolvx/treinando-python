@@ -364,6 +364,10 @@ Aqui estão os códigos que você pode encontrar neste repositório, organizados
   - **Descrição:** O programa solicita a entrada de quatro números, os armazena em uma tupla e, em seguida, informa quantas vezes o número 9 aparece, a posição do primeiro número 3 e quais dos números digitados são pares.
   - **Conceitos:** Laço de repetição (for), entrada de dados (input()), estrutura de dados tupla, concatenação de tuplas (+=), a função count(), o método index() e o operador de resto (%).
 
-###[lista_de_compras.py](lista_de_compras.py)
+### [lista_de_compras.py](lista_de_compras.py)
   - **Descrição:** O programa cria uma lista de produtos e seus respectivos preços, exibindo-os de forma organizada na tela.
   - **Conceitos:** Estrutura de dados tupla, laço de repetição (for), fatiamento (slicing) e formatação de strings (f-strings) para alinhar e formatar os valores (:< e :>).
+
+### [analisando_vogais.py](analisando_vogais.py)
+  - **Descrição:** O programa percorre uma lista de palavras e exibe as vogais de cada uma delas.
+  - **Conceitos:** Estrutura de dados tupla, laços de repetição aninhados (for dentro de for), a função lower(), formatação de strings (f-strings) e o método join() para unir strings.
