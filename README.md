@@ -349,5 +349,21 @@ Aqui estão os códigos que você pode encontrar neste repositório, organizados
   - **Conceitos:** Geração de números aleatórios (`random.randint()`), laços de repetição (`while`) e operadores de módulo (`%`).
 
 ### [numeros_por_extenso.py](numeros_por_extenso.py)
-  - Descrição: Um programa que recebe um número de 0 a 20 e o exibe por extenso.
-  - Conceitos: Laço de repetição (while), entrada de dados (input()), estrutura de dados tupla (tupla) e tratamento de erros.
+  - **Descrição:** Um programa que recebe um número de 0 a 20 e o exibe por extenso.
+  - **Conceitos:** Laço de repetição (while), entrada de dados (input()), estrutura de dados tupla (tupla) e tratamento de erros.
+
+### [analise_campeonato.py](analise_campeonato.py)
+  - **Descrição:** O programa armazena uma lista de times de futebol e exibe a tabela de classificação do campeonato, os times na zona de rebaixamento e uma lista em ordem alfabética.
+  - **Conceitos:** Tuplas (tuple), laço de repetição (for), fatiamento (slicing), formatação de strings (f-strings) e a função sorted().
+
+### [tupla_aleatoria.py](tupla_aleatoria.py)
+  - **Descrição:** Um programa que gera 5 números aleatórios, armazena em uma tupla e exibe o maior e o menor valor.
+  - **Conceitos:** Módulo random (import random), a função randint(), laço de repetição (for), compreensão de tuplas, a função sorted() para ordenar a tupla e acesso a elementos por índice (ordem[0], ordem[-1]).
+
+### [analise_de_tupla.py](analise_de_tupla.py)
+  - **Descrição:** O programa solicita a entrada de quatro números, os armazena em uma tupla e, em seguida, informa quantas vezes o número 9 aparece, a posição do primeiro número 3 e quais dos números digitados são pares.
+  - **Conceitos:** Laço de repetição (for), entrada de dados (input()), estrutura de dados tupla, concatenação de tuplas (+=), a função count(), o método index() e o operador de resto (%).
+
+###[lista_de_compras.py](lista_de_compras.py)
+  - **Descrição:** O programa cria uma lista de produtos e seus respectivos preços, exibindo-os de forma organizada na tela.
+  - **Conceitos:** Estrutura de dados tupla, laço de repetição (for), fatiamento (slicing) e formatação de strings (f-strings) para alinhar e formatar os valores (:< e :>).
