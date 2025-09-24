@@ -14,7 +14,7 @@ else:
 
 print('Tupla =',tupla)
 
-for i in range(4):
-    if i % 2 == 0:
-        print('Índice par:', i)
-
+print('Números pares e seus índices:')
+for indice, valor in enumerate(tupla):
+    if valor % 2 == 0:
+        print(f'Número par {valor} na posição {indice}')

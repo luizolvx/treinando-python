@@ -1,4 +1,4 @@
-print('=== ex 077 ===')
+print('=== ex 078 ===')
 
 lista = ('cachorro', 'peixe', 'gato', 'leao', 'girafa')
 

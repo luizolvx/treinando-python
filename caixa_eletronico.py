@@ -1,3 +1,4 @@
+print("=== ex 070 ===")
 print('=== Caixa Eletrônico ===')
 
 while True:
