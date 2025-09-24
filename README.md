@@ -371,3 +371,37 @@ Aqui estão os códigos que você pode encontrar neste repositório, organizados
 ### [analisando_vogais.py](analisando_vogais.py)
   - **Descrição:** O programa percorre uma lista de palavras e exibe as vogais de cada uma delas.
   - **Conceitos:** Estrutura de dados tupla, laços de repetição aninhados (for dentro de for), a função lower(), formatação de strings (f-strings) e o método join() para unir strings.
+
+### [contador_de_vogais.py](contador_de_vogais.py)
+  - **Descrição:** O programa solicita cinco palavras ao usuário, conta quantas vogais há em cada uma e     exibe o   - total de vogais encontradas.
+  - **Conceitos:** Tuplas, laço for, estrutura condicional if, manipulação de strings com lower(), contagem de caracteres e formatação com f-strings.
+
+### [filtro_de_duplicatas.py](filtro_de_duplicatas.py)
+  - **Descrição:** O programa solicita números ao usuário, adicionando apenas os que não estão repetidos na lista. Ao final, exibe a lista em ordem crescente e decrescente.
+
+  - **Conceitos:** Estrutura de dados lista, verificação de duplicatas com not in, controle de fluxo com if/else, entrada condicional com input() e ordenação com sorted().
+
+### [insercao_ordenada.py](insercao_ordenada.py)
+  - **Descrição:** O programa solicita cinco números ao usuário e os insere em uma lista mantendo a ordem crescente, sem utilizar a função sort().
+
+  - **Conceitos:** Estrutura de dados lista, lógica de inserção ordenada, laço for, controle de fluxo com if/else, e o método insert() para posicionamento direto de elementos.
+
+### [maior_e_menor_Posicao.py](maior_e_menor_Posicao.py)
+  - **Descrição:** O programa solicita cinco números ao usuário, identifica o maior e o menor valor da lista e exibe suas respectivas posições.
+
+  - **Conceitos:** Estrutura de dados lista, laço for com enumerate(), comparação de valores, controle de posição com índices e formatação com f-strings.
+
+### [manipulador_lista.py](manipulador_lista.py)
+  - **Descrição:** O programa coleta números digitados pelo usuário até que ele insira 0, momento em que encerra a entrada, remove o zero, verifica se o número 5 foi digitado e exibe a lista em ordem decrescente junto com seu tamanho.
+
+  - **Conceitos:** Estrutura de dados lista, laço while, controle de fluxo com if, verificação de presença com not in, ordenação com sort(reverse=True) e formatação com f-strings.
+
+### [separador_pares_impares.py](separador_pares_impares.py)
+  - **Descrição:** O programa solicita sete números ao usuário, separa os valores pares e ímpares em listas distintas e exibe o resultado.
+
+  - **Conceitos:** Estrutura de dados lista, laço for com enumerate(), operadores aritméticos para verificação de paridade, controle condicional com if e formatação com format().
+
+### [validador_de_Parenteses.py](validador_de_Parenteses.py)
+  - **Descrição:** O programa verifica se uma frase digitada começa com ( e termina com ), validando a ordem dos parênteses e exibindo o resultado.
+
+  - **Conceitos:** Manipulação de strings, conversão de string em lista com list(), indexação ([0] e [-1]), estrutura condicional if/elif/else e validação de caracteres.
