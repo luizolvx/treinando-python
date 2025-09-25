@@ -405,3 +405,36 @@ Aqui estão os códigos que você pode encontrar neste repositório, organizados
   - **Descrição:** O programa verifica se uma frase digitada começa com ( e termina com ), validando a ordem dos parênteses e exibindo o resultado.
 
   - **Conceitos:** Manipulação de strings, conversão de string em lista com list(), indexação ([0] e [-1]), estrutura condicional if/elif/else e validação de caracteres.
+
+### [listas_pares_impares.py](listas_pares_impares.py)
+  - **Descrição:** O programa solicita sete números ao usuário, separa os valores pares e ímpares em sublistas distintas dentro de uma lista única e exibe os resultados ordenados.
+
+  - **Conceitos:** Listas aninhadas, operadores aritméticos para verificação de paridade, laço for, estrutura condicional if/else, ordenação com sort() e formatação com f-strings.
+
+### [lista_de_peso_maximo_minimo.py](lista_de_peso_maximo_minimo.py)
+  - **Descrição:** O programa coleta nome e peso de cinco pessoas, identifica os indivíduos com maior e menor peso e exibe seus dados.
+
+  - **Conceitos:** Listas compostas, cópia de listas com fatiamento ([:]), ordenação com sort() e lambda, estrutura condicional if/elif, e formatação com f-strings.
+
+### [matriz3x3.py](matriz3x3.py)
+  - **Descrição:** O programa solicita ao usuário que preencha manualmente os valores de uma matriz 3x3, linha por linha, e exibe o conteúdo organizado.
+
+  - **Conceitos:** Listas aninhadas, estrutura de matriz, laço for, manipulação de índices, entrada de dados com input() e organização visual de dados em estrutura tabular.
+
+### [matriz3x3_2.0.py](matriz3x3_2.0.py)
+  - **Descrição:** O programa preenche uma matriz 3x3 com valores digitados pelo usuário, calcula a soma dos valores pares, a soma da terceira coluna e identifica o maior valor da segunda linha.
+
+  - **Conceitos:** Matrizes com listas aninhadas, laços for aninhados, operadores aritméticos, uso de max() para encontrar o maior valor, e formatação visual com f-strings.
+
+### [mega_sena.py](mega_sena.py)
+  - **Descrição:** O programa gera automaticamente uma quantidade definida de jogos da Mega-Sena, sorteando seis números únicos entre 1 e 60 para cada jogo e exibindo os resultados com intervalo de tempo.
+
+  - **Conceitos:** Geração de números aleatórios com randint(), controle de duplicatas, listas, laços while, ordenação com sort(), cópia de listas com fatiamento ([:]) e uso de sleep() para simular tempo de sorteio.
+
+### [boletim.py](boletim.py)
+  - **Descrição:** O programa registra nome e notas de alunos, calcula a média, exibe um boletim com todas as médias e permite consultar individualmente as notas de cada aluno.
+
+  - **Conceitos:** Listas compostas, laço while, estrutura condicional if, cálculo de média, formatação tabular com f-strings e uso de enumerate() para indexação.
+
+
+
