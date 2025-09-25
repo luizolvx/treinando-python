@@ -371,3 +371,70 @@ Aqui estão os códigos que você pode encontrar neste repositório, organizados
 ### [analisando_vogais.py](analisando_vogais.py)
   - **Descrição:** O programa percorre uma lista de palavras e exibe as vogais de cada uma delas.
   - **Conceitos:** Estrutura de dados tupla, laços de repetição aninhados (for dentro de for), a função lower(), formatação de strings (f-strings) e o método join() para unir strings.
+
+### [contador_de_vogais.py](contador_de_vogais.py)
+  - **Descrição:** O programa solicita cinco palavras ao usuário, conta quantas vogais há em cada uma e     exibe o   - total de vogais encontradas.
+  - **Conceitos:** Tuplas, laço for, estrutura condicional if, manipulação de strings com lower(), contagem de caracteres e formatação com f-strings.
+
+### [filtro_de_duplicatas.py](filtro_de_duplicatas.py)
+  - **Descrição:** O programa solicita números ao usuário, adicionando apenas os que não estão repetidos na lista. Ao final, exibe a lista em ordem crescente e decrescente.
+
+  - **Conceitos:** Estrutura de dados lista, verificação de duplicatas com not in, controle de fluxo com if/else, entrada condicional com input() e ordenação com sorted().
+
+### [insercao_ordenada.py](insercao_ordenada.py)
+  - **Descrição:** O programa solicita cinco números ao usuário e os insere em uma lista mantendo a ordem crescente, sem utilizar a função sort().
+
+  - **Conceitos:** Estrutura de dados lista, lógica de inserção ordenada, laço for, controle de fluxo com if/else, e o método insert() para posicionamento direto de elementos.
+
+### [maior_e_menor_Posicao.py](maior_e_menor_Posicao.py)
+  - **Descrição:** O programa solicita cinco números ao usuário, identifica o maior e o menor valor da lista e exibe suas respectivas posições.
+
+  - **Conceitos:** Estrutura de dados lista, laço for com enumerate(), comparação de valores, controle de posição com índices e formatação com f-strings.
+
+### [manipulador_lista.py](manipulador_lista.py)
+  - **Descrição:** O programa coleta números digitados pelo usuário até que ele insira 0, momento em que encerra a entrada, remove o zero, verifica se o número 5 foi digitado e exibe a lista em ordem decrescente junto com seu tamanho.
+
+  - **Conceitos:** Estrutura de dados lista, laço while, controle de fluxo com if, verificação de presença com not in, ordenação com sort(reverse=True) e formatação com f-strings.
+
+### [separador_pares_impares.py](separador_pares_impares.py)
+  - **Descrição:** O programa solicita sete números ao usuário, separa os valores pares e ímpares em listas distintas e exibe o resultado.
+
+  - **Conceitos:** Estrutura de dados lista, laço for com enumerate(), operadores aritméticos para verificação de paridade, controle condicional com if e formatação com format().
+
+### [validador_de_Parenteses.py](validador_de_Parenteses.py)
+  - **Descrição:** O programa verifica se uma frase digitada começa com ( e termina com ), validando a ordem dos parênteses e exibindo o resultado.
+
+  - **Conceitos:** Manipulação de strings, conversão de string em lista com list(), indexação ([0] e [-1]), estrutura condicional if/elif/else e validação de caracteres.
+
+### [listas_pares_impares.py](listas_pares_impares.py)
+  - **Descrição:** O programa solicita sete números ao usuário, separa os valores pares e ímpares em sublistas distintas dentro de uma lista única e exibe os resultados ordenados.
+
+  - **Conceitos:** Listas aninhadas, operadores aritméticos para verificação de paridade, laço for, estrutura condicional if/else, ordenação com sort() e formatação com f-strings.
+
+### [lista_de_peso_maximo_minimo.py](lista_de_peso_maximo_minimo.py)
+  - **Descrição:** O programa coleta nome e peso de cinco pessoas, identifica os indivíduos com maior e menor peso e exibe seus dados.
+
+  - **Conceitos:** Listas compostas, cópia de listas com fatiamento ([:]), ordenação com sort() e lambda, estrutura condicional if/elif, e formatação com f-strings.
+
+### [matriz3x3.py](matriz3x3.py)
+  - **Descrição:** O programa solicita ao usuário que preencha manualmente os valores de uma matriz 3x3, linha por linha, e exibe o conteúdo organizado.
+
+  - **Conceitos:** Listas aninhadas, estrutura de matriz, laço for, manipulação de índices, entrada de dados com input() e organização visual de dados em estrutura tabular.
+
+### [matriz3x3_2.0.py](matriz3x3_2.0.py)
+  - **Descrição:** O programa preenche uma matriz 3x3 com valores digitados pelo usuário, calcula a soma dos valores pares, a soma da terceira coluna e identifica o maior valor da segunda linha.
+
+  - **Conceitos:** Matrizes com listas aninhadas, laços for aninhados, operadores aritméticos, uso de max() para encontrar o maior valor, e formatação visual com f-strings.
+
+### [mega_sena.py](mega_sena.py)
+  - **Descrição:** O programa gera automaticamente uma quantidade definida de jogos da Mega-Sena, sorteando seis números únicos entre 1 e 60 para cada jogo e exibindo os resultados com intervalo de tempo.
+
+  - **Conceitos:** Geração de números aleatórios com randint(), controle de duplicatas, listas, laços while, ordenação com sort(), cópia de listas com fatiamento ([:]) e uso de sleep() para simular tempo de sorteio.
+
+### [boletim.py](boletim.py)
+  - **Descrição:** O programa registra nome e notas de alunos, calcula a média, exibe um boletim com todas as médias e permite consultar individualmente as notas de cada aluno.
+
+  - **Conceitos:** Listas compostas, laço while, estrutura condicional if, cálculo de média, formatação tabular com f-strings e uso de enumerate() para indexação.
+
+
+
