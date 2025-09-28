@@ -436,5 +436,35 @@ Aqui estão os códigos que você pode encontrar neste repositório, organizados
 
   - **Conceitos:** Listas compostas, laço while, estrutura condicional if, cálculo de média, formatação tabular com f-strings e uso de enumerate() para indexação.
 
+### [dados_escolares.py](dados_escolares.py)
+  - **Descrição:** O programa coleta nome, nota e situação de três alunos, armazena os dados em um dicionário e os exibe organizadamente.
+
+  - **Conceitos:** Listas e dicionários, cópia de dicionário com copy(), entrada de dados com input(), estrutura de repetição for e exibição de dados estruturados.
+
+### [loteria.py](loteria.py)
+  - **Descrição:** O programa cadastra três jogadores, sorteia automaticamente um número entre 1 e 100 para cada um, exibe os resultados e identifica o ganhador com o maior número sorteado.
+
+  - **Conceitos:** Dicionários e listas, cópia de dicionário com copy(), geração de números aleatórios com randint(), estrutura condicional if, e exibição formatada com f-strings.
+
+### [perfil_profissional.py](perfil_profissional.py)
+  - **Descrição:** O programa coleta dados profissionais de uma pessoa, calcula sua idade e, se possuir carteira de trabalho, estima a idade de aposentadoria com base no ano de contratação.
+
+  - **Conceitos:** Dicionários, entrada de dados com input(), cálculos com operadores aritméticos, estrutura condicional if, e formatação de saída com f-strings.
+
+### [estatisticas_jogador.py](estatisticas_jogador.py)
+  - **Descrição:** O programa coleta dados de desempenho de um jogador de futebol, calcula o total de gols marcados no campeonato com base na média por partida e exibe os resultados.
+
+  - **Conceitos:** Dicionários, entrada de dados com input(), multiplicação para cálculo de totais, estrutura de dados para armazenar atributos e exibição com f-strings.
+
+### [analise_cadastro_idades.py](analise_cadastro_idades.py)
+  - **Descrição:** O programa cadastra dados de cinco pessoas (nome, idade e sexo), calcula a média das idades e exibe quem está acima dessa média.
+
+  - **Conceitos:** Dicionários e listas, cópia de dicionário com copy(), estrutura de repetição for, cálculo de média, estrutura condicional if, e exibição formatada com format()
+
+### [estatisticas_jogador2.0.py](estatisticas_jogador2.0.py)
+  - **Descrição:** O programa registra o desempenho de jogadores de futebol, armazenando gols por partida e total de gols. Exibe uma tabela com os dados e permite consultar o histórico de cada jogador individualmente.
+
+  - **Conceitos:** Dicionários e listas compostas, entrada de dados com input(), laços for aninhados, estrutura condicional if, uso de enumerate() para indexação, e exibição tabular com f-strings.
+
 
 
